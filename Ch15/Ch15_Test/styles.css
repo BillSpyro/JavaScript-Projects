@@ -1,0 +1,19 @@
+div.player {
+
+width: 10px;
+height: 10px;
+background-color: black;
+top: 100px;
+left: 100px;
+position: relative;
+
+}
+
+div.bullet {
+
+width: 5px;
+height: 5px;
+background-color: red;
+position: absolute;
+
+}
